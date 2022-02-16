@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/c768ae5178db9ff99006b2aa6f1a76e2_coopmachread07b.pdf
+file: /media/courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/c768ae5178db9ff99006b2aa6f1a76e2_coopmachread07b.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: coopmachread07b.pdf
 uid: c768ae51-78db-9ff9-9006-b2aa6f1a76e2
