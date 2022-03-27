@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 649ab72a-e5e3-4b6e-b47f-1728eca126ad
 resourcetype: Document
 title: coopmachread08c.pdf
 uid: e40a7e04-42e4-d7a9-26fc-29a5520b53e9
