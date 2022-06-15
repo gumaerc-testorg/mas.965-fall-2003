@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,8 +16,8 @@ In this project we would like to tackle the problems of joint reference and join
 
 Materials
 
-Initial Proposal ([PDF]({{< baseurl >}}/resources/initialprop))
+Initial Proposal ({{% resource_link fdabaa9c-e5a1-393f-2b96-ec553878c2a8 "PDF" %}})
 
-Final Proposal ([PDF]({{< baseurl >}}/resources/finalprop))
+Final Proposal ({{% resource_link 23a91622-62b7-d9df-7e81-f1c654c75cab "PDF" %}})
 
 Video: _Tasks, Goals, and Collaboration_. ([MP4 - 20MB](https://archive.org/download/MITMAS.965F03/mas.965-220k.mp4))
