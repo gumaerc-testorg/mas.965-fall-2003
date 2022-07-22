@@ -5,6 +5,7 @@ file: /courses/mas-965-special-topics-in-media-technology-cooperative-machines-f
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

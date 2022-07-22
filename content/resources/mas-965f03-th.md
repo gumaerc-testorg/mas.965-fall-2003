@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: Photo of Leo, a robot with big, furry ears.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: mas-965f03-th.jpg
 uid: 9e1579fb-90c7-5c6b-ecb7-e5d3359c8f80
 ---
 New image Upload
-
