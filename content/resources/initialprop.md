@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/fdabaa9ce5a1393f2b96ec553878c2a8_initialprop.pdf
+file_size: 88384
 file_type: application/pdf
 learning_resource_types:
 - Projects
