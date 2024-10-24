@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/b526dd668f8c03e58122bb56ec35edc7_coopmachread07c.pdf
+file: /ol-ocw-studio-app/courses/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/b526dd668f8c03e58122bb56ec35edc7_coopmachread07c.pdf
 file_size: 82809
 file_type: application/pdf
 learning_resource_types:
