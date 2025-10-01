@@ -21,4 +21,4 @@ Initial Proposal ({{% resource_link "fdabaa9c-e5a1-393f-2b96-ec553878c2a8" "PDF"
 
 Final Proposal ({{% resource_link "23a91622-62b7-d9df-7e81-f1c654c75cab" "PDF" %}})
 
-Video: *Tasks, Goals, and Collaboration*. ([MP4 - 20MB](https://archive.org/download/MITMAS.965F03/mas.965-220k.mp4))
+Video: *Tasks, Goals, and Collaboration*. ({{% resource_link "fcb95d7f-b05b-42ab-9039-9765b7dac4b7" "MP4 - 20MB" %}})
